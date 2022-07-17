@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Luis Paiva 👋
 
-- 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando Laravel
-
-
 <div align="left">
   <a href="https://github.com/luispaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luispaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -29,5 +25,32 @@
   <a href="https://www.linkedin.com/in/luis-fernando-de-paiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/luispaiva/luispaiva/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+### Um pouco mais sobre mim:
+
+Sou desenvolvedor WordPress desde 2016 e minha principal atividade está voltada ao desenvolvimento avançado utilizando a plataforma WordPress. <br>
+### Tecnologias que conheço:
+
+✔ Desenvolvimento de soluções para WordPress e WooCommerce (temas, plugins e integrações).<br>
+✔ Integração com gateways de pagamentos.<br>
+✔ Análise de vendas do WooCommerce.<br>
+✔ Integrações utilizando APIs.<br>
+✔ Desenvolvimento de documentações de REST APIs.<br>
+✔ Desenvolvimento de REST API utilizando WordPress.<br>
+✔ Desenvolvimento de soluções Headless utilizando Vue.js (Framework JavaScript).<br>
+✔ Desenvolvimento de soluções SSO (Single Sign On).<br>
+✔ Desenvolvimento utilizando gerenciadores de pacotes Composer (PHP) e NPM (JavaScript).<br>
+✔ Controle de versão utilizando GIT, Bitbucket e GitHub.<br>
+✔ Desenvolvimento em ambiente Linux.<br>
+✔ Linguagens: PHP, JavaScript, MySQL, HTML5, CSS3.<br>
+✔ Frameworks / CMSs e Bibliotecas: CodeIgniter, WordPress, Vue.js, JQuery.<br>
+✔ API Integrações: WordPress APIs, MundiPagg API, Google APIs, Campaign Monitor.<br>
+✔ Metodologia ágil: Scrum.<br>
+
+### Atualmente estou estudando sobre:
+- Clean Code;
+- Clean Architecture;
+- TDD (Test-driven development);
+- Framework Vue.js (JavaScript);
+- Framework Laravel (PHP);
