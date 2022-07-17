@@ -14,8 +14,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="right" height="150" style="border-radius:100px;" src="https://avatars.githubusercontent.com/luispaiva?size=200">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
 </div>
 
   ##
@@ -29,7 +28,7 @@
 
 ### Um pouco mais sobre mim:
 
-Sou desenvolvedor WordPress desde 2016 e minha principal atividade está voltada ao desenvolvimento avançado utilizando a plataforma WordPress. <br>
+Sou desenvolvedor WordPress desde 2016 e minha principal atividade está voltada ao desenvolvimento avançado utilizando a plataforma WordPress. Criação de temas, plugins, sistemas, integração e criação de REST APIs. <br>
 ### Tecnologias que conheço:
 
 ✔ Desenvolvimento de soluções para WordPress e WooCommerce (temas, plugins e integrações).<br>
