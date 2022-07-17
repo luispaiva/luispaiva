@@ -41,7 +41,7 @@ Sou desenvolvedor WordPress desde 2016 e minha principal atividade está voltada
 ✔ Desenvolvimento de soluções Headless utilizando Vue.js (Framework JavaScript).<br>
 ✔ Desenvolvimento de soluções SSO (Single Sign On).<br>
 ✔ Desenvolvimento utilizando gerenciadores de pacotes Composer (PHP) e NPM (JavaScript).<br>
-✔ Controle de versão utilizando GIT, Bitbucket e GitHub.<br>
+✔ Controle de versão utilizando GIT, Bitbucket, Gitlab e GitHub.<br>
 ✔ Desenvolvimento em ambiente Linux.<br>
 ✔ Linguagens: PHP, JavaScript, MySQL, HTML5, CSS3.<br>
 ✔ Frameworks / CMSs e Bibliotecas: CodeIgniter, WordPress, Vue.js, JQuery.<br>
