@@ -20,7 +20,7 @@
   ##
  
 <div> 
-  <a href = "mailto:contato@luispaiva.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@luispaiva.com.br"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-fernando-de-paiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/luispaiva/luispaiva/blob/output/github-contribution-grid-snake.svg)
@@ -53,3 +53,13 @@ Sou desenvolvedor WordPress desde 2016 e minha principal atividade está voltada
 - TDD (Test-driven development);
 - Framework Vue.js (JavaScript);
 - Framework Laravel (PHP);
+
+<!-- YOUTUBE:START -->
+## <img align="center" height="100%" width="30" src="./assets/images/youtube-logo.svg"> Alguns vídeos no YouTube
+
+[![Autenticação WordPress com JWT](https://img.youtube.com/vi/hHjgbCRdVns/mqdefault.jpg)](https://www.youtube.com/watch?v=hHjgbCRdVns "Autenticação WordPress com JWT")
+[![Implementando CAPTCHA nas telas de autenticação do WordPress.](https://img.youtube.com/vi/Lvv7EDkYlSM/mqdefault.jpg)](https://www.youtube.com/watch?v=Lvv7EDkYlSM "Implementando CAPTCHA nas telas de autenticação do WordPress.")
+[![Mudando a interface das telas.](https://img.youtube.com/vi/oTuAqUTDj44/mqdefault.jpg)](https://www.youtube.com/watch?v=oTuAqUTDj44 "Mudando a interface das telas.")
+
+[<img src="./assets/images/youtube-subscribe-red.svg"/>](https://www.youtube.com/channel/UC605RePytN8GHuYRxnjMZ-w/?sub_confirmation=1)
+<!-- YOUTUBE:END -->
