@@ -43,7 +43,7 @@ Sou desenvolvedor WordPress desde 2016 e minha principal atividade está voltada
 ✔ Controle de versão utilizando GIT, Bitbucket, Gitlab e GitHub.<br>
 ✔ Desenvolvimento em ambiente Linux.<br>
 ✔ Linguagens: PHP, JavaScript, MySQL, HTML5, CSS3.<br>
-✔ Frameworks / CMSs e Bibliotecas: CodeIgniter, WordPress, Vue.js, JQuery.<br>
+✔ Frameworks / CMSs e Bibliotecas: CodeIgniter, WordPress, Vue.js, JQuery, Bootstrap.<br>
 ✔ API Integrações: WordPress APIs, MundiPagg API, Google APIs, Campaign Monitor.<br>
 ✔ Metodologia ágil: Scrum.<br>
 
